@@ -1,0 +1,109 @@
+[
+  {
+    "beans": [
+      {
+        "amount": 220,
+        "name": "Elimbari"
+      }
+    ],
+    "events": [
+      {
+        "id": 1605535057789,
+        "timestamp": 1605535057789,
+        "type": "setting",
+        "value": 200
+      },
+      {
+        "id": 1605535455235,
+        "timestamp": 1605535455235,
+        "type": "fill",
+        "value": 0
+      },
+      {
+        "id": 1605535456269,
+        "timestamp": 1605535456269,
+        "type": "setting",
+        "value": 230
+      },
+      {
+        "id": 1605535641041,
+        "timestamp": 1605535641041,
+        "type": "setting",
+        "value": 180
+      },
+      {
+        "id": 1605535673451,
+        "timestamp": 1605535673451,
+        "type": "reading",
+        "value": 180
+      },
+      {
+        "id": 1605535825028,
+        "timestamp": 1605535825028,
+        "type": "setting",
+        "value": 200
+      },
+      {
+        "id": 1605535857163,
+        "timestamp": 1605535857163,
+        "type": "reading",
+        "value": 200
+      },
+      {
+        "id": 1605535925254,
+        "timestamp": 1605535925254,
+        "type": "browning",
+        "value": 0
+      },
+      {
+        "id": 1605536012052,
+        "timestamp": 1605536012052,
+        "type": "setting",
+        "value": 220
+      },
+      {
+        "id": 1605536061439,
+        "timestamp": 1605536061439,
+        "type": "reading",
+        "value": 220
+      },
+      {
+        "id": 1605536286162,
+        "timestamp": 1605536286162,
+        "type": "crack",
+        "value": 0
+      },
+      {
+        "id": 1605536181904,
+        "timestamp": 1605536181904,
+        "type": "setting",
+        "value": 245
+      },
+      {
+        "id": 1605536269324,
+        "timestamp": 1605536269324,
+        "type": "reading",
+        "value": 245
+      },
+      {
+        "id": 1605536347069,
+        "timestamp": 1605536347069,
+        "type": "setting",
+        "value": 220
+      },
+      {
+        "id": 1605536483514,
+        "timestamp": 1605536483514,
+        "type": "drop",
+        "value": 0
+      },
+      {
+        "id": 1605536424090,
+        "timestamp": 1605536424090,
+        "type": "reading",
+        "value": 220
+      }
+    ],
+    "timestamp": 1605535047048
+  }
+]
